@@ -14,5 +14,16 @@
         del a, b, c, d, k;
         a = new del(Hello);
         b = Goobye;
+        c = a + b;
+        k = null;
+        k += b;
+        k += a;
+        d = c - a;
+        Console.WriteLine($"Il nuovo delegato di a");
+        a("A");
+        Console.WriteLine($"Il nuovo delegato di b");
+        b("B");
+        Console.ReadKey();
+        
     }
 }
