@@ -27,7 +27,8 @@
         c("C");
         Console.WriteLine($"Il nuovo delegato di d");
         d("D");
-        
+        Console.WriteLine($"Il nuovo delegato di k");
+        k("K");
         Console.ReadKey();
         
     }
