@@ -1,0 +1,15 @@
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\bin\Debug\net9.0\4_EsempiLamba.exe
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\bin\Debug\net9.0\4_EsempiLamba.deps.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\bin\Debug\net9.0\4_EsempiLamba.runtimeconfig.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\bin\Debug\net9.0\4_EsempiLamba.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\bin\Debug\net9.0\4_EsempiLamba.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\obj\Debug\net9.0\4_EsempiLamba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\obj\Debug\net9.0\4_EsempiLamba.AssemblyInfoInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\obj\Debug\net9.0\4_EsempiLamba.AssemblyInfo.cs
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\obj\Debug\net9.0\4_EsempiLamba.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\obj\Debug\net9.0\4_EsempiLamba.sourcelink.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\obj\Debug\net9.0\4_EsempiLamba.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\obj\Debug\net9.0\refint\4_EsempiLamba.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\obj\Debug\net9.0\4_EsempiLamba.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\obj\Debug\net9.0\4_EsempiLamba.genruntimeconfig.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\4_EsempiLamba\obj\Debug\net9.0\ref\4_EsempiLamba.dll
