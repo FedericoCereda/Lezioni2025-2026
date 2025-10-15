@@ -23,6 +23,11 @@
         a("A");
         Console.WriteLine($"Il nuovo delegato di b");
         b("B");
+        Console.WriteLine($"Il nuovo delegato di c");
+        c("C");
+        Console.WriteLine($"Il nuovo delegato di d");
+        d("D");
+        
         Console.ReadKey();
         
     }
