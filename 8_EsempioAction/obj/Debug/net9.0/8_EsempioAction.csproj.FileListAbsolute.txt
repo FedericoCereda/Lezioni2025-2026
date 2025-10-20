@@ -1,0 +1,15 @@
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\bin\Debug\net9.0\8_EsempioAction.exe
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\bin\Debug\net9.0\8_EsempioAction.deps.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\bin\Debug\net9.0\8_EsempioAction.runtimeconfig.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\bin\Debug\net9.0\8_EsempioAction.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\bin\Debug\net9.0\8_EsempioAction.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\obj\Debug\net9.0\8_EsempioAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\obj\Debug\net9.0\8_EsempioAction.AssemblyInfoInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\obj\Debug\net9.0\8_EsempioAction.AssemblyInfo.cs
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\obj\Debug\net9.0\8_EsempioAction.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\obj\Debug\net9.0\8_EsempioAction.sourcelink.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\obj\Debug\net9.0\8_EsempioAction.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\obj\Debug\net9.0\refint\8_EsempioAction.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\obj\Debug\net9.0\8_EsempioAction.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\obj\Debug\net9.0\8_EsempioAction.genruntimeconfig.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\8_EsempioAction\obj\Debug\net9.0\ref\8_EsempioAction.dll
