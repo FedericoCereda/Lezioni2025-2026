@@ -1,4 +1,6 @@
-﻿namespace _11_EsempioRicercaConLinq;
+﻿using System.Data;
+
+namespace _11_EsempioRicercaConLinq;
 
 class Program
 {
@@ -20,6 +22,14 @@ class Program
         }
         Student sBill = studentArray.Where(s => s.StudentName.Equals("BIll")).FirstOrDefault();
         Console.WriteLine(sBill);
+
+        var teeAger = from s in studentArray where s.Age > 12 && s.Age <= 20 select s;
+        foreach (var item in teeAger)
+        {
+            Console.WriteLine(item);
+        }
+
+        teeAger = studentArray.Where(s => s.Age>12 && s.Age < 20).ToArray();
     }
     
 }

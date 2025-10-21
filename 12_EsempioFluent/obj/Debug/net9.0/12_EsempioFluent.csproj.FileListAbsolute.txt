@@ -1,0 +1,15 @@
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\bin\Debug\net9.0\12_EsempioFluent.exe
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\bin\Debug\net9.0\12_EsempioFluent.deps.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\bin\Debug\net9.0\12_EsempioFluent.runtimeconfig.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\bin\Debug\net9.0\12_EsempioFluent.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\bin\Debug\net9.0\12_EsempioFluent.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\obj\Debug\net9.0\12_EsempioFluent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\obj\Debug\net9.0\12_EsempioFluent.AssemblyInfoInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\obj\Debug\net9.0\12_EsempioFluent.AssemblyInfo.cs
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\obj\Debug\net9.0\12_EsempioFluent.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\obj\Debug\net9.0\12_EsempioFluent.sourcelink.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\obj\Debug\net9.0\12_EsempioFluent.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\obj\Debug\net9.0\refint\12_EsempioFluent.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\obj\Debug\net9.0\12_EsempioFluent.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\obj\Debug\net9.0\12_EsempioFluent.genruntimeconfig.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\12_EsempioFluent\obj\Debug\net9.0\ref\12_EsempioFluent.dll
