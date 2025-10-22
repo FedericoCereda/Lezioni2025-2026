@@ -33,6 +33,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_EsempioFuncConLista", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_EsercizioEsempio", "14_EsercizioEsempio\14_EsercizioEsempio.csproj", "{6B8B5156-FCB5-453B-9AF1-336C032F44B3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15_Esercizio1Per_23", "15_Esercizio1Per_23", "{E1A57DD3-20EC-BDFC-4B8A-2F64EE45A5BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10", "10", "{5293CB66-56FA-F0B4-D893-207D43EDCB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2025", "15_Esercizio1Per_23\10\2025\2025.csproj", "{13DE0D4F-BE6F-4637-B821-669FE3BC84C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -223,8 +229,24 @@ Global
 		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Release|x64.Build.0 = Release|Any CPU
 		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Release|x86.ActiveCfg = Release|Any CPU
 		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Release|x86.Build.0 = Release|Any CPU
+		{13DE0D4F-BE6F-4637-B821-669FE3BC84C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DE0D4F-BE6F-4637-B821-669FE3BC84C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DE0D4F-BE6F-4637-B821-669FE3BC84C5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{13DE0D4F-BE6F-4637-B821-669FE3BC84C5}.Debug|x64.Build.0 = Debug|Any CPU
+		{13DE0D4F-BE6F-4637-B821-669FE3BC84C5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{13DE0D4F-BE6F-4637-B821-669FE3BC84C5}.Debug|x86.Build.0 = Debug|Any CPU
+		{13DE0D4F-BE6F-4637-B821-669FE3BC84C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DE0D4F-BE6F-4637-B821-669FE3BC84C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DE0D4F-BE6F-4637-B821-669FE3BC84C5}.Release|x64.ActiveCfg = Release|Any CPU
+		{13DE0D4F-BE6F-4637-B821-669FE3BC84C5}.Release|x64.Build.0 = Release|Any CPU
+		{13DE0D4F-BE6F-4637-B821-669FE3BC84C5}.Release|x86.ActiveCfg = Release|Any CPU
+		{13DE0D4F-BE6F-4637-B821-669FE3BC84C5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5293CB66-56FA-F0B4-D893-207D43EDCB99} = {E1A57DD3-20EC-BDFC-4B8A-2F64EE45A5BC}
+		{13DE0D4F-BE6F-4637-B821-669FE3BC84C5} = {5293CB66-56FA-F0B4-D893-207D43EDCB99}
 	EndGlobalSection
 EndGlobal
