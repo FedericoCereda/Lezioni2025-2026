@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FEDERICO\\Documents\\GitHub\\Esercizi-CSharp\\Lezioni 2025\\4_EsempiLamba\\4_EsempiLamba.csproj": {}
+    "C:\\Users\\FEDERICOCEREDA2IB_st\\Desktop\\Nuova cartella (2)\\Lezioni2025-2026\\4_EsempiLamba\\4_EsempiLamba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FEDERICO\\Documents\\GitHub\\Esercizi-CSharp\\Lezioni 2025\\4_EsempiLamba\\4_EsempiLamba.csproj": {
+    "C:\\Users\\FEDERICOCEREDA2IB_st\\Desktop\\Nuova cartella (2)\\Lezioni2025-2026\\4_EsempiLamba\\4_EsempiLamba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FEDERICO\\Documents\\GitHub\\Esercizi-CSharp\\Lezioni 2025\\4_EsempiLamba\\4_EsempiLamba.csproj",
+        "projectUniqueName": "C:\\Users\\FEDERICOCEREDA2IB_st\\Desktop\\Nuova cartella (2)\\Lezioni2025-2026\\4_EsempiLamba\\4_EsempiLamba.csproj",
         "projectName": "4_EsempiLamba",
-        "projectPath": "C:\\Users\\FEDERICO\\Documents\\GitHub\\Esercizi-CSharp\\Lezioni 2025\\4_EsempiLamba\\4_EsempiLamba.csproj",
-        "packagesPath": "C:\\Users\\FEDERICO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FEDERICO\\Documents\\GitHub\\Esercizi-CSharp\\Lezioni 2025\\4_EsempiLamba\\obj\\",
+        "projectPath": "C:\\Users\\FEDERICOCEREDA2IB_st\\Desktop\\Nuova cartella (2)\\Lezioni2025-2026\\4_EsempiLamba\\4_EsempiLamba.csproj",
+        "packagesPath": "C:\\Users\\FEDERICOCEREDA2IB_st\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FEDERICOCEREDA2IB_st\\Desktop\\Nuova cartella (2)\\Lezioni2025-2026\\4_EsempiLamba\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\FEDERICO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FEDERICOCEREDA2IB_st\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

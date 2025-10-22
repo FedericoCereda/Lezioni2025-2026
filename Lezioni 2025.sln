@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_EsempioFluent", "12_Esem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_EsempioFuncConLista", "13_EsempioFuncConLista\13_EsempioFuncConLista.csproj", "{AD5BCF15-EAD7-469A-B819-27D62A8B781B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_EsercizioEsempio", "14_EsercizioEsempio\14_EsercizioEsempio.csproj", "{6B8B5156-FCB5-453B-9AF1-336C032F44B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +211,18 @@ Global
 		{AD5BCF15-EAD7-469A-B819-27D62A8B781B}.Release|x64.Build.0 = Release|Any CPU
 		{AD5BCF15-EAD7-469A-B819-27D62A8B781B}.Release|x86.ActiveCfg = Release|Any CPU
 		{AD5BCF15-EAD7-469A-B819-27D62A8B781B}.Release|x86.Build.0 = Release|Any CPU
+		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Debug|x64.Build.0 = Debug|Any CPU
+		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Debug|x86.Build.0 = Debug|Any CPU
+		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Release|x64.ActiveCfg = Release|Any CPU
+		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Release|x64.Build.0 = Release|Any CPU
+		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Release|x86.ActiveCfg = Release|Any CPU
+		{6B8B5156-FCB5-453B-9AF1-336C032F44B3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
