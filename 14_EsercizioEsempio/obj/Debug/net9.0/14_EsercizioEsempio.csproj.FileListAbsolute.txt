@@ -13,3 +13,18 @@ C:\Users\FEDERICOCEREDA2IB_st\Desktop\Nuova cartella (2)\Lezioni2025-2026\14_Ese
 C:\Users\FEDERICOCEREDA2IB_st\Desktop\Nuova cartella (2)\Lezioni2025-2026\14_EsercizioEsempio\obj\Debug\net9.0\14_EsercizioEsempio.pdb
 C:\Users\FEDERICOCEREDA2IB_st\Desktop\Nuova cartella (2)\Lezioni2025-2026\14_EsercizioEsempio\obj\Debug\net9.0\14_EsercizioEsempio.genruntimeconfig.cache
 C:\Users\FEDERICOCEREDA2IB_st\Desktop\Nuova cartella (2)\Lezioni2025-2026\14_EsercizioEsempio\obj\Debug\net9.0\ref\14_EsercizioEsempio.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\bin\Debug\net9.0\14_EsercizioEsempio.exe
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\bin\Debug\net9.0\14_EsercizioEsempio.deps.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\bin\Debug\net9.0\14_EsercizioEsempio.runtimeconfig.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\bin\Debug\net9.0\14_EsercizioEsempio.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\bin\Debug\net9.0\14_EsercizioEsempio.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\obj\Debug\net9.0\14_EsercizioEsempio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\obj\Debug\net9.0\14_EsercizioEsempio.AssemblyInfoInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\obj\Debug\net9.0\14_EsercizioEsempio.AssemblyInfo.cs
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\obj\Debug\net9.0\14_EsercizioEsempio.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\obj\Debug\net9.0\14_EsercizioEsempio.sourcelink.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\obj\Debug\net9.0\14_EsercizioEsempio.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\obj\Debug\net9.0\refint\14_EsercizioEsempio.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\obj\Debug\net9.0\14_EsercizioEsempio.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\obj\Debug\net9.0\14_EsercizioEsempio.genruntimeconfig.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\14_EsercizioEsempio\obj\Debug\net9.0\ref\14_EsercizioEsempio.dll

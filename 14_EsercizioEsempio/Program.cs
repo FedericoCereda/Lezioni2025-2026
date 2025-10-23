@@ -189,11 +189,26 @@ class Program
         }
         ;
     }
+    static void GruppiVoti()
+    {
+        var gruppVotiResult = studentList.GroupBy(s => s.MediaVoti);
+        foreach (var gruppostudenti in gruppVotiResult)
+        {
+            System.Console.WriteLine("Key = " + gruppostudenti.Key);
+            System.Console.WriteLine("Gruppo Studenti con media "+gruppostudenti.Key+" sono "+gruppostudenti.Count());
+            foreach (var studente in gruppostudenti)
+            {
+                System.Console.WriteLine(studente);
+            }
+        }
+
+    }
     static void Main(string[] args)
     {
         studentList = InitLista();
         //QueryWhere();
-        QueryOrdinamento();
+        //QueryOrdinamento();
+        GruppiVoti();
         //QueryGroupBy();
         //QueryJoin();
         Console.ReadKey();
