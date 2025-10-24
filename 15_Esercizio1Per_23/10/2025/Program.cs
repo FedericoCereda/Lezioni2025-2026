@@ -72,7 +72,81 @@
             OrderBy(l => l.Cognome).
             ToList().
             ForEach(l => Console.WriteLine(l.Cognome));
+            //3.1
+            var groupGenere = libri.GroupBy(l => l.Genere);
+            foreach (var item in groupGenere)
+            {
+                Console.WriteLine($"Genere: " + item.Key);
+
+                foreach (var Libro in item)
+                {
+                    Console.WriteLine($"Numero totale: " + item.Count());
+                    Console.WriteLine($"Prezzo medio: " + item.Average(s => s.Prezzo));
+                    Console.WriteLine($"Il numero di pagine massimo: " + item.Max(s => s.NumeroPagine));
+                    Console.WriteLine();
+                }
+            }
+            //3.2
+            var groupNazionalità = autori.GroupBy(a => a.Nazionalita).ToList();
+            foreach (var item in groupNazionalità)
+            {
+                Console.WriteLine($"Nazionalità: " + item.Key);
+                Console.WriteLine($"Numero di autore: " + item.Count());
+                Console.WriteLine();
+            }
+            //3.3
+            var groupAutore = libri.GroupBy(l => l.AutoreID).ToList();
+
+            foreach (var item in groupAutore)
+            {
+                Console.WriteLine($"Autore: " + item.Key);
+                Console.WriteLine($"Libri Scritti " + item.Count());
+                Console.WriteLine($"Ultimo libro " + item.Min(l => l.AnnoPubblicazione));
+                Console.WriteLine();
+            }
+            //3.4
+            var groupPrestiti = prestiti.GroupBy(p => p.NomeUtente).ToList();
+            foreach (var item in groupPrestiti)
+            {
+                Console.WriteLine($"Utente: " + item.Key);
+                Console.WriteLine($"Prestiti effettuati: " + item.Count());
+                Console.WriteLine($"Prestiti attivi: " + item.Count(p => p.DataRestituzione == null));
+                Console.WriteLine($"Prestiti possibili: " + item.Count(p => p.DataRestituzione != null));
+
+            }
+            //4.1
+            var JoinLibriAutori = libri.Join(autori,
+            l => l.LibroID,
+            a => a.AutoreID,
+            (l, a) => new { Titolo = l.Titolo, NomeCompleto = a.Nome + a.Cognome, Nazionalità = a.Nazionalita, Publicazione = l.AnnoPubblicazione , Disponibilità = l.Disponibile , LibroID = l.LibroID , Cognome = a.Cognome , Prezzo= l.Prezzo});
+            foreach (var item in JoinLibriAutori)
+            {
+                if (item.Disponibilità != null)
+                {
+                    Console.WriteLine($"Titolo: {item.Titolo} Nome completo: {item.NomeCompleto} Nazionalità: {item.Nazionalità} Data di publicazione: {item.Publicazione}");
+                    System.Console.WriteLine();
+                }
+            }
+            //4.2
+            var JounTutto = JoinLibriAutori.Join(prestiti,
+            lb => lb.LibroID,
+            t => t.LibroID,
+            (lb, t) => new { NomeUtente = lb.NomeCompleto, Titolo = lb.Titolo, CognomeAutore = lb.Cognome, DataPrestito = t.DataPrestito, Disponibile=t.DataRestituzione });
+            JounTutto = JounTutto.Where(j => j.Disponibile == null).ToList();
+            foreach (var item in JounTutto)
+            {
+                Console.WriteLine($"Nome Utente: " + item.NomeUtente + " Titolo libro: " + item.Titolo + " Cognome Autore: " + item.CognomeAutore + " Data prestito: " + item.DataPrestito + " Giorni trascorsi: " + DateTime.Now.Subtract(item.DataPrestito));
+                System.Console.WriteLine();
+            }
+            //4.3
+            JoinLibriAutori = JoinLibriAutori.Where(j => j.Nazionalità == "Americana" || j.Nazionalità == "Britannica").Where(j => j.Publicazione > 1940).OrderBy(j => j.Publicazione).ToList();
+            foreach (var item in JoinLibriAutori)
+            {
+                Console.WriteLine($"Titolo: "+item.Titolo+" Cognome: "+item.Cognome+" Nazionalità: "+item.Nazionalità+" Anno di publicazione: "+item.Publicazione+" Prezzo: "+item.Prezzo);
+                
+            }
             Console.ReadKey();
+
         }
     }
 
