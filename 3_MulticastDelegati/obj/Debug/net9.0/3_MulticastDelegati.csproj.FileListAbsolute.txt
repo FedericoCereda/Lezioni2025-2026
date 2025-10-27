@@ -1,0 +1,15 @@
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\bin\Debug\net9.0\3_MulticastDelegati.exe
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\bin\Debug\net9.0\3_MulticastDelegati.deps.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\bin\Debug\net9.0\3_MulticastDelegati.runtimeconfig.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\bin\Debug\net9.0\3_MulticastDelegati.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\bin\Debug\net9.0\3_MulticastDelegati.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\obj\Debug\net9.0\3_MulticastDelegati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\obj\Debug\net9.0\3_MulticastDelegati.AssemblyInfoInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\obj\Debug\net9.0\3_MulticastDelegati.AssemblyInfo.cs
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\obj\Debug\net9.0\3_MulticastDelegati.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\obj\Debug\net9.0\3_MulticastDelegati.sourcelink.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\obj\Debug\net9.0\3_MulticastDelegati.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\obj\Debug\net9.0\refint\3_MulticastDelegati.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\obj\Debug\net9.0\3_MulticastDelegati.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\obj\Debug\net9.0\3_MulticastDelegati.genruntimeconfig.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\3_MulticastDelegati\obj\Debug\net9.0\ref\3_MulticastDelegati.dll

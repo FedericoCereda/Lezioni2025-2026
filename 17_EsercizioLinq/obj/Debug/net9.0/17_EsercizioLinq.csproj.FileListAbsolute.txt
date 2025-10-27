@@ -1,0 +1,15 @@
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\bin\Debug\net9.0\17_EsercizioLinq.exe
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\bin\Debug\net9.0\17_EsercizioLinq.deps.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\bin\Debug\net9.0\17_EsercizioLinq.runtimeconfig.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\bin\Debug\net9.0\17_EsercizioLinq.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\bin\Debug\net9.0\17_EsercizioLinq.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\obj\Debug\net9.0\17_EsercizioLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\obj\Debug\net9.0\17_EsercizioLinq.AssemblyInfoInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\obj\Debug\net9.0\17_EsercizioLinq.AssemblyInfo.cs
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\obj\Debug\net9.0\17_EsercizioLinq.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\obj\Debug\net9.0\17_EsercizioLinq.sourcelink.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\obj\Debug\net9.0\17_EsercizioLinq.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\obj\Debug\net9.0\refint\17_EsercizioLinq.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\obj\Debug\net9.0\17_EsercizioLinq.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\obj\Debug\net9.0\17_EsercizioLinq.genruntimeconfig.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\17_EsercizioLinq\obj\Debug\net9.0\ref\17_EsercizioLinq.dll

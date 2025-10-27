@@ -1,0 +1,15 @@
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\bin\Debug\net9.0\16_RiassuntoPerVerifica.exe
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\bin\Debug\net9.0\16_RiassuntoPerVerifica.deps.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\bin\Debug\net9.0\16_RiassuntoPerVerifica.runtimeconfig.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\bin\Debug\net9.0\16_RiassuntoPerVerifica.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\bin\Debug\net9.0\16_RiassuntoPerVerifica.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\obj\Debug\net9.0\16_RiassuntoPerVerifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\obj\Debug\net9.0\16_RiassuntoPerVerifica.AssemblyInfoInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\obj\Debug\net9.0\16_RiassuntoPerVerifica.AssemblyInfo.cs
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\obj\Debug\net9.0\16_RiassuntoPerVerifica.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\obj\Debug\net9.0\16_RiassuntoPerVerifica.sourcelink.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\obj\Debug\net9.0\16_RiassuntoPerVerifica.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\obj\Debug\net9.0\refint\16_RiassuntoPerVerifica.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\obj\Debug\net9.0\16_RiassuntoPerVerifica.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\obj\Debug\net9.0\16_RiassuntoPerVerifica.genruntimeconfig.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\16_RiassuntoPerVerifica\obj\Debug\net9.0\ref\16_RiassuntoPerVerifica.dll

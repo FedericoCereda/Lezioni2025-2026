@@ -1,4 +1,6 @@
-﻿namespace _2025
+﻿using System.ComponentModel;
+
+namespace _2025
 {
     class Program
     {
@@ -142,8 +144,8 @@
             JoinLibriAutori = JoinLibriAutori.Where(j => j.Nazionalità == "Americana" || j.Nazionalità == "Britannica").Where(j => j.Publicazione > 1940).OrderBy(j => j.Publicazione).ToList();
             foreach (var item in JoinLibriAutori)
             {
-                Console.WriteLine($"Titolo: "+item.Titolo+" Cognome: "+item.Cognome+" Nazionalità: "+item.Nazionalità+" Anno di publicazione: "+item.Publicazione+" Prezzo: "+item.Prezzo);
-                
+                Console.WriteLine($"Titolo: " + item.Titolo + " Cognome: " + item.Cognome + " Nazionalità: " + item.Nazionalità + " Anno di publicazione: " + item.Publicazione + " Prezzo: " + item.Prezzo);
+
             }
             Console.ReadKey();
 
