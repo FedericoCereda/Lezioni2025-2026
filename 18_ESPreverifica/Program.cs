@@ -12,8 +12,40 @@ class Program
         //Q2(1980);
         //Q3("Pink Floyd");
         //Q4("Italia");
-        Q5();
+        //Q5();
+        //Q6("Rock Progressivo");
+        
         Console.ReadKey();
+    }
+    static void Q6(string s)
+    {
+        var AlbumDIArtista = listaArtisti.Where(a => a.GenereMusicale == s).Join
+        (listaAlbums,
+
+        a => a.ArtistaId,
+
+        A => A.ArtistaId,
+
+        (a, A) => new
+        {
+            A.Titolo,
+            A.AlbumId
+        }
+        ).ToList();
+         var AlbumDIArtistaF = AlbumDIArtista.Join(listaCanzoni,
+        a => a.AlbumId,
+        c => c.AlbumId,
+        (a, c) => new
+        {
+            c.Titolo
+        }).ToList();
+        
+  
+        foreach (var item in AlbumDIArtistaF)
+        {
+            Console.WriteLine($"{item.Titolo}");
+            
+        }
     }
     static void Q5()
     {
