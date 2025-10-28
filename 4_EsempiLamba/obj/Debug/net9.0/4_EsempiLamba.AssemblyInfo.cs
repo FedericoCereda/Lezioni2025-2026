@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4_EsempiLamba")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1300b26546747949b5b6e47d5aaa0856bd6d8b01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4db571ed6ac9b6d86c5ec5b0dc1860a6663f00ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("4_EsempiLamba")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4_EsempiLamba")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

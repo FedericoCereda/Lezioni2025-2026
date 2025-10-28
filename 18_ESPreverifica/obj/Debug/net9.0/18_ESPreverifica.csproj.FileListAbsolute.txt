@@ -1,0 +1,15 @@
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\bin\Debug\net9.0\18_ESPreverifica.exe
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\bin\Debug\net9.0\18_ESPreverifica.deps.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\bin\Debug\net9.0\18_ESPreverifica.runtimeconfig.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\bin\Debug\net9.0\18_ESPreverifica.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\bin\Debug\net9.0\18_ESPreverifica.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\obj\Debug\net9.0\18_ESPreverifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\obj\Debug\net9.0\18_ESPreverifica.AssemblyInfoInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\obj\Debug\net9.0\18_ESPreverifica.AssemblyInfo.cs
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\obj\Debug\net9.0\18_ESPreverifica.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\obj\Debug\net9.0\18_ESPreverifica.sourcelink.json
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\obj\Debug\net9.0\18_ESPreverifica.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\obj\Debug\net9.0\refint\18_ESPreverifica.dll
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\obj\Debug\net9.0\18_ESPreverifica.pdb
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\obj\Debug\net9.0\18_ESPreverifica.genruntimeconfig.cache
+C:\Users\FEDERICO\Documents\GitHub\Esercizi-CSharp\Lezioni 2025\18_ESPreverifica\obj\Debug\net9.0\ref\18_ESPreverifica.dll

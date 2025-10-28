@@ -16,7 +16,7 @@ class Program
     {
         InitializeList();
         //EsempioDelegate();
-        esempioLamda();
+        //esempioLamda();
         Console.ReadKey();
     }
     static void esempioLamda()

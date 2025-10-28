@@ -1,4 +1,5 @@
-﻿using System.Net;
+﻿using System.Globalization;
+using System.Net;
 
 namespace _17_EsercizioLinq;
 
@@ -12,7 +13,7 @@ class Program
     {
 
         InizializeList();
-        Console.WriteLine($"Inserisci Nazionalità:");
+        /*Console.WriteLine($"Inserisci Nazionalità:");
         InputNazionalità(Console.ReadLine());
         Console.WriteLine("Inserisci nome:");
         string Nome = Console.ReadLine();
@@ -20,7 +21,7 @@ class Program
         string Cognome = Console.ReadLine();
         StampaRomanzi(Nome, Cognome);
         Console.WriteLine($"Inserisci una nazionalità:\n");
-        StampaNazionalità(Console.ReadLine());
+        StampaNazionalità(Console.ReadLine());*/
         Console.WriteLine($"Inserisci una nazionalità:\n");
         ContaNazionalità(Console.ReadLine());
         Console.WriteLine($"Inserisci una nazionalità:\n");
@@ -31,90 +32,83 @@ class Program
     {
         List<Autore> NListaAutori = ListaAutori.Where(a => a.Nazionalita == nazionalità).ToList();
         List<Personaggio> personaggis = new List<Personaggio>();
-        foreach (var Autore in NListaAutori)
-        {
-            foreach (var Romanzo in ListaRomanzi)
-            {
-                if (Autore.AutoreId == Romanzo.AutoreID)
-                {
-                    foreach (var personaggio in ListaPersonaggi)
-                    {
-                        if (Romanzo.RomanzoID == personaggio.RomanzoId)
-                        {
-                            personaggis.Add(personaggio);
-                        }
-                    }
-                }
-            }
-        }
+
         return personaggis;
     }
     static void StampaPersonaggi (string nazionalità)
     {
-        List<Autore> OListaAutori = ListaAutori.Where(a => a.Nazionalita == nazionalità).ToList();
-        foreach (var Autore in OListaAutori)
+        var Olistaautori = ListaAutori.Where(a => a.Nazionalita == nazionalità).Join(ListaRomanzi,
+        a => a.AutoreId,
+        r => r.AutoreID,
+        (a, r) => new
         {
-            foreach (var Romanzo in ListaRomanzi)
-            {
-                if (Autore.AutoreId == Romanzo.AutoreID)
-                {
-                   foreach (var personaggio in ListaPersonaggi)
-                   {
-                        if(Romanzo.RomanzoID==personaggio.RomanzoId)
-                        {
-                            Console.WriteLine($"Nome: {personaggio.Nome}; Ruolo: {personaggio.Ruolo}");
-                        }
-                   }
-                }
-            }
+            a.Nazionalita,
+            r.RomanzoID
+
+        }).Join(ListaPersonaggi, r => r.RomanzoID, p => p.RomanzoId,
+        (r, p) => new
+        {
+            p.Nome
+        });
+        foreach (var item in Olistaautori)
+        {
+            Console.WriteLine(item.Nome);
+            
         }
+    
+        
     }
     static void ContaNazionalità(string Nazionalita)
     {
-        List<Autore> TListaAutori = ListaAutori.Where(a => a.Nazionalita == Nazionalita).ToList();
-        int cont = 0;
-        foreach (var Autore in TListaAutori)
+        var TListaAutori = ListaAutori.Where(a => a.Nazionalita == Nazionalita).Join(ListaRomanzi,
+        a => a.AutoreId,
+        r => r.AutoreID,
+        (a, r) => new
         {
-            foreach (var Romanzo in ListaRomanzi)
-            {
-                if (Autore.AutoreId == Romanzo.AutoreID)
-                {
-                    cont++;
-                }
-            }
-        }
-        Console.WriteLine("Libri Della zaionalita " + Nazionalita + ": " + cont);
+            a.Nazionalita,
+            a.Nome
+        });
+        int cont=0;
+        foreach (var item in TListaAutori)
+        {
+            cont++;
+        }System.Console.WriteLine(cont);
+ 
     }
     static void StampaNazionalità (string Nazionalita)
     {
-        List<Autore> TEListaAutori = ListaAutori.Where(a => a.Nazionalita == Nazionalita).ToList();
-        foreach (var Autore in TEListaAutori)
+        var TEListaAutori = ListaAutori.Where(a => a.Nazionalita == Nazionalita).Join
+        (ListaRomanzi,
+        a => a.AutoreId,
+        r => r.AutoreID,
+        (a, r) => new
         {
-            foreach (var Romanzo in ListaRomanzi)
-            {
-                if (Autore.AutoreId == Romanzo.AutoreID)
-                {
-                    Console.WriteLine(Romanzo.Titolo);
-                    System.Console.WriteLine();
-                }
-            }
+            r.Titolo,
+            a.Nome,
+            a.Cognome
+        });
+        foreach (var item in TEListaAutori)
+        {
+            Console.WriteLine(item.Titolo+item.Nome+ item.Cognome);
         }
+        
     }
     static void StampaRomanzi(string AutNom, string AutCog)
     {
-        List<Autore> TEMPListaAutori = ListaAutori.Where(a => a.Nome == AutNom && a.Cognome == AutCog).ToList();
-        foreach (var Autore in TEMPListaAutori)
+        var TEMPListaAutori = ListaAutori.Where(a => a.Nome == AutNom && a.Cognome == AutCog).Join
+        (ListaRomanzi,
+        a => a.AutoreId,
+        r => r.AutoreID,
+        (a, r) => new
         {
-            foreach (var Romanzo in ListaRomanzi)
-            {
-                if(Autore.AutoreId==Romanzo.AutoreID)
-                {
-                    Console.WriteLine(Romanzo.Titolo);
-                    System.Console.WriteLine();
-                }
-            }
-            
+            Romanzo = r
         }
+        );
+        foreach (var item in TEMPListaAutori)
+        {
+            System.Console.WriteLine(item.Romanzo.Titolo);
+        }
+        
     }
     static void InputNazionalità(string Nazionalita)
     {
