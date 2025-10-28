@@ -1,4 +1,7 @@
-﻿namespace _18_ESPreverifica;
+﻿using Microsoft.VisualBasic;
+using System.Linq;
+
+namespace _18_ESPreverifica;
 
 class Program
 {
@@ -14,8 +17,14 @@ class Program
         //Q4("Italia");
         //Q5();
         //Q6("Rock Progressivo");
-        
+        //Q7();
         Console.ReadKey();
+    }
+    static void Q7()
+    {
+        Canzone Canzonepiulunga = listaCanzoni.MaxBy(c => c.DurataMinuti);
+        Console.WriteLine($"{Canzonepiulunga.Titolo}");
+        
     }
     static void Q6(string s)
     {
