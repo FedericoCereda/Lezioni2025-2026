@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("18_ESPreverifica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51ae582a01a02248ebc206135fe947288ecedb8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b77f2f47b86aa238dce5b092523db220b2e0536d")]
 [assembly: System.Reflection.AssemblyProductAttribute("18_ESPreverifica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("18_ESPreverifica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

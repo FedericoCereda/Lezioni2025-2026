@@ -68,4 +68,5 @@ class Program
             Console.WriteLine($"{s.Cognome} {s.Nome}, Età: {s.Eta}");
         }
     }
+    
 }
